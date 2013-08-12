@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>KLMModel</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>KLMModel</key>
+		<dict>
+			<key>KLMEntityAccount</key>
+			<data>
+			u9nv/sCNbqdj48PvmeXYzj19XxTxQ7y3I+y2Wu+DdsY=
+			</data>
+			<key>KLMEntityChat</key>
+			<data>
+			/rMKVDSQrv9wplan/R7/MOWlm5K0wRbamJIuhsHuk2U=
+			</data>
+			<key>KLMEntityGroup</key>
+			<data>
+			G8j9hYn6wMRupTdsrz0kAlvk6/5gqz7k7YA3rHUc1l4=
+			</data>
+			<key>KLMEntityUser</key>
+			<data>
+			GMjLCh3xJRUooJAp8wRrmaiTmBqesKbnbnL1pzlGIu0=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>
