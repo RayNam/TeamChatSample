@@ -152,7 +152,7 @@ $ LOBI_CLIENT_SECRET=..... carton exec -- plackup # start server on 5000 port de
 
 サインアップしていない場合は、`Signup`ボタンがアクティブになっています。ボタンをタップしてサインアップしてください。
 
-![](https://github.com/nakamap/TeamChatSample/tree/master/ios/Sample/Resources/team_chat_1.png)
+![](https://raw.github.com/nakamap/TeamChatSample/master/ios/Sample/Resources/team_chat_1.png)
 
 ####チーム一覧の取得
 サインアップが成功すると、現在作成されているチームの一覧が表示されます。
@@ -164,5 +164,5 @@ $ LOBI_CLIENT_SECRET=..... carton exec -- plackup # start server on 5000 port de
 チームの新規作成は`Create`ボタンをタップして下さい。
 自分がチームを作成した場合は他のチームに移ることができません。
 
-![](https://github.com/nakamap/TeamChatSample/tree/master/ios/Sample/Resources/team_chat_2.png)
-　![](https://github.com/nakamap/TeamChatSample/tree/master/ios/Sample/Resources/team_chat_3.png)
+![](https://raw.github.com/nakamap/TeamChatSample/master/ios/Sample/Resources/team_chat_2.png)
+　![](https://raw.github.com/nakamap/TeamChatSample/master/ios/Sample/Resources/team_chat_3.png)
